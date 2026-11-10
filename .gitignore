@@ -1,0 +1,19 @@
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Downloads / temp
+*.part
+*.part.url
+*.ts
+*.mp4
+*.m4a
+*.webm
